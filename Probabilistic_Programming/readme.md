@@ -1,1 +1,2 @@
-https://nbviewer.jupyter.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
+
+The core problem in Bayesian learning is given data $d$ and $w$, the likelihood p(d|w) and the prior probability p(w). Then, we only know $p(w|d)\sim{p(d|w)p(w)}$
